@@ -10,3 +10,10 @@
 
 // Escreva sua solução abaixo:
 
+let altura = 1.35;
+
+if (altura >= 1.40) {
+    console.log("entrada permitida");
+} else {
+    console.log("entrada permitida");
+}

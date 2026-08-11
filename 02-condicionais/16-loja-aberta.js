@@ -8,3 +8,10 @@
 
 // Escreva sua solução abaixo:
 
+let lojaFechada = false;
+
+if (!lojaFechada) {
+    console.log("loja aberta");
+} else {
+    console.log("loja fechada");
+}

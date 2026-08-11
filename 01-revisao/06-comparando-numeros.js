@@ -11,3 +11,9 @@
 
 // Escreva sua solução abaixo:
 
+let numero01 = 25;
+let numero02 = 18;
+
+console.log(`numero01`) > (`numero02`);
+console.log(`numero01`) < (`numero02`);
+console.log(`numero01`) == (`numero02`);

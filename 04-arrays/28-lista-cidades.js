@@ -4,3 +4,5 @@
 
 // Escreva sua solução abaixo:
 
+const cidades = ["São paulo", "rio de janeiro", "curitiba","salvador","belo horizonte"];
+console.log(cidades);

@@ -8,3 +8,10 @@
 
 // Escreva sua solução abaixo:
 
+let valorCompra = 180;
+
+if (valorCompra >= 200) {
+    console.log("frete grátis");
+} else {
+    console.log("frete pago");
+}

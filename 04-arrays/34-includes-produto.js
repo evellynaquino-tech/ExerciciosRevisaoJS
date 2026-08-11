@@ -7,3 +7,9 @@ let produtos = ["Notebook", "Mouse", "Monitor", "Teclado"];
 
 // Escreva sua solução abaixo:
 
+if (produtos.inclubes("Monitor")){
+    console.log("produto disponivel");
+} else {
+    console.log("produto não disponivel")
+}
+

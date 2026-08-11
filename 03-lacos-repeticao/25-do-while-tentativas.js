@@ -12,3 +12,10 @@
 
 // Escreva sua solução abaixo:
 
+let tentativa = 1;
+
+do {
+console.log(`tentativa ${tentativa}`);
+tentativa++;
+} while (tentativa <= 3);
+
